@@ -224,3 +224,4 @@ Shopkeepers are different in the way that they are not obtainable through crate 
 
 ## Flags
 Conquest flags are different in the way that they are not obtainable through crate keys
+ur mum fuck
