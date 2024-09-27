@@ -48,6 +48,8 @@ The following clients are **ALLOWED** on the network:
 - Helix Client
 - Latite Client
 - BadTiger Client
+- Atlas Client
+- Lyra Client
 
 The clients below are **NOT Allowed** on the network and will result in severe punishment if used:
 - Any clients with tools to help cheat in-game, even if you do not use them to play.
