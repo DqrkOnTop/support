@@ -30,3 +30,9 @@ The following kits are provided to ranked players on Skyblock. Kits can be redee
 * 30x golden apples
 * 5x enchanted golden apples
 * 8x enderpearls
+## Titan Rank
+* Full diamond armour(protection II)
+* Diamond sword(sharpness III),pickaxe,(efficiency III),axe,shovel,and hoe
+* 45× golden apples
+* 10× enchanted golden apples
+* 16× enderpearls
